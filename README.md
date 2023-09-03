@@ -7,14 +7,32 @@ This Hangman game is a text based application developed in JavaScript. It allows
 ### Group Members and Mentor:
 - Nompilo Khumalo (g22k1186@campus.ru.ac.za)
 - Mthabisi (g23s6705@campus.eu.ac.za)
-- Melusi (g22m14172campus.ru.ac.za)
-- Thami (Nomathamsanqa.hlalukani@gmail.com)
-- Cwenga (cwenganqono02@gmail.com)
+- Melusi (g22m14172@campus.ru.ac.za)
+- Thami (g20h4535@campus.ru.ac.za)
+- Cwenga (g21n8627@campus.ru.ac.za)
 
 Mentor
 - Sinenjabulo Gogwana (g20g3211@campus.ru.ac.za)
 
+### How to Install:
+1. Visit the official website of Android studios at https://developer.android.com/studio.
+2. Download the Android Studio from the website. You will find a "Download Android Studios" button, click on it.
+3. Choose your platform preferably the one most suitable for your operating system. Android Studios is available for Windows,macOS, and Linux.
+4. Install Android Studios. For windows run the .exe file and follow the installation instructions.
+5. After the intallation process is complete you can launch Android Studios from your apllication or Start menu.
+6. Android Studios will prompt you to set up an Android Virtual device if you intent to test you apps om emulated devices. Follow the prompts to create and ADV.
 
+### Running the game
+1. Build the project to compile the code.
+2. Open a terminal or command prompt.
+3. Navigate to the project directory.
+4. Run the program using the following command:
+
+### Gameplay
+- The game will prompt the player to guess a word
+- The player will guess the letters of the word or the entire word
+- A keyboard will be used to enter the players guesses
+  
 ### Tools and Concepts used:
 - Basic CSS
 - Basic Html
@@ -37,29 +55,4 @@ Mentor
 - The game is deveploped for android base environment and may require adjustments for othe platforms.
 - The is no sound affect or background music in this game.
 
-# Hangman Game
 
-This Hangman game is a text-based application developed in C# that allows players to guess words one letter at a time and test their vocabulary skills.
-
-## Contact Information
-- Group Name: [Insert your group name]
-- Group Members: [Insert group members’ full names]
-- Group Mentor: [Insert your group mentor, if you have one (not mandatory)]
-- Email: [Insert contact email address]
-
-## How to Install and Run
-Follow these steps to install, run, and play the Hangman game:
-
-### Prerequisites
-- [.NET Core](https://dotnet.microsoft.com/download) installed on your machine.
-
-### Installation
-1. Clone the repository to your local machine using `git clone [repository URL]`.
-2. Open the project in your preferred C# development environment (e.g., Visual Studio or Visual Studio Code).
-
-### Running the Game
-1. Build the project to compile the code.
-2. Open a terminal or command prompt.
-3. Navigate to the project directory.
-4. Run the program using the following command:
-5. 
