@@ -33,12 +33,19 @@ Mentor
 - The player will guess the letters of the word or the entire word
 - A keyboard will be used to enter the players guesses
   
-### Tools and Concepts used:
+### Concepts used:
 - Basic CSS
 - Basic Html
 - Android studios
 - JavaScript
 - Monday.com
+
+### Tools used:
+- Coditional statements
+- Loops
+- User input handling
+- Arrays or Lists
+- Dictionaries
   
 ### Assumptions:
 - The player is familiar with all the rules of the hangman game.
