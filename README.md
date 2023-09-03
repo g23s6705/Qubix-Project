@@ -32,6 +32,17 @@ Mentor
 - The game will prompt the player to guess a word
 - The player will guess the letters of the word or the entire word
 - A keyboard will be used to enter the players guesses
+### Gameplay Interaction
+- Upon launching the program, a graphical user interface (GUI) or text-based interface will be displayed, depending on the program's design.
+ ### Interact with the Hangman game using the following keys or buttons:
+- Guessing Letters: Enter a letter to guess if it's in the hidden word.
+- Thematic Selection: Use keys or buttons to choose a themed variation.
+- Difficulty Level: Select the desired difficulty level (easy, medium, hard).
+- Multiplayer Mode: Set up multiplayer mode and enter player names, if applicable.
+- Gameplay Actions: Click buttons or press keys like "Enter" or "Submit" to make guesses or perform actions.
+- Exit the Game: Press "Q" or use a designated button to exit the game.
+- View Scoreboard: Check your performance and scores on the scoreboard.
+- Follow the game's prompts and notifications to guess letters and progress through the game.
   
 ### Concepts used:
 - Basic CSS
