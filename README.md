@@ -2,7 +2,7 @@
 CS102 Project
 https://github.com/g23s6705/Qubix-Project
 
-This Hangman game is a text based application developed in JavaScript. It allows players to guess a word one letter at a time and test their vocabulary skills. For each incorrect guess a part of a stick figure of a hanged man is drawn.
+This Hangman game is a text based application developed in JavaScript. It allows players to guess a word one letter at a time and test their vocabulary skills. For each incorrect guess a part of a stick figure of a hung man is drawn.
 
 ### Group Members and Mentor:
 - Nompilo Khumalo (g22k1186@campus.ru.ac.za)
@@ -17,7 +17,7 @@ Mentor
 ### How to Install:
 1. Visit the official website of Android studios at https://developer.android.com/studio.
 2. Download the Android Studio from the website. You will find a "Download Android Studios" button, click on it.
-3. Choose your platform preferably the one most suitable for your operating system. Android Studios is available for Windows,macOS, and Linux.
+3. Choose your platform preferably the one most suitable for your operating system. Android Studios is available for Windows,macOS, and Linux, however the mobile app version will only run on an android device.
 4. Install Android Studios. For windows run the .exe file and follow the installation instructions.
 5. After the intallation process is complete you can launch Android Studios from your apllication or Start menu.
 6. Android Studios will prompt you to set up an Android Virtual device if you intent to test you apps om emulated devices. Follow the prompts to create and ADV.
@@ -48,7 +48,7 @@ Mentor
 - Basic CSS
 - Basic Html
 - Android studios
-- JavaScript
+- Java
 - Monday.com
 
 ### Tools used:
