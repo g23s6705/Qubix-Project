@@ -1,0 +1,9 @@
+//This is Log Journal Documenting the progress of the team throughout the Hangman project//
+Template below of logs:->Copy and paste please whenever you log a new entry
+
+
+DATE:
+MEMBER:
+ISSUE:
+STATUS:
+--(body log)
