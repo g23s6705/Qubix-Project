@@ -23,3 +23,11 @@ Mini Hangman :
 - If the letter is right, the positions in the guessedLetters array are adjusted accordingly.
 - In the case of an incorrect letter guess, the number of attempts is increased.
 - The game keeps going until the player either correctly guesses the word or exhausts all their attempts.
+
+
+
+DATE: 13 September 2023 (Wednesday)
+MEMBER:Mthabisi Sibanda
+ISSUE: Game Dictionary
+STATUS: In-Progress -(Passed to Nompilo)
+--Created 5 levels of txt files to draw from, with level one having 4 letter words to level 5 eith 8 and above. Needs to be refined to nouns only instead of including verbs, adjectives, plurals and tenses, makes the game seem unprofessional.
