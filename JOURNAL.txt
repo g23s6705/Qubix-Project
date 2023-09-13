@@ -16,3 +16,10 @@ Created a mini hangman. I wanted to add a timer (Countdown) for 5 minutes for th
 made it, but I am still not done with it. The timer has its GUI. 
 The challenge that I'm seeing is that it will be difficult to integrate it into the main Hangman. 
 I'll send my code to the group. 
+Mini Hangman :
+- The game begins by randomly selecting a word from the WORDS array.
+- Players are asked to input a letter as their guess.
+- The game checks if the guessed letter matches any in the chosen word.
+- If the letter is right, the positions in the guessedLetters array are adjusted accordingly.
+- In the case of an incorrect letter guess, the number of attempts is increased.
+- The game keeps going until the player either correctly guesses the word or exhausts all their attempts.
