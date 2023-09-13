@@ -7,3 +7,9 @@ MEMBER:
 ISSUE:
 STATUS:
 --(body log)
+
+DATE: 2023/09/13 (Wednesday)
+MEMBER: Melusi
+ISSUE: Timer and textfile
+STATUS: Done a mini hangman, but it only runs on cmd  
+Created a mini hangman. I wanted to add a timer (Countdown) for 5 minutes for the game. created it, but I am still not done with it. The timer has its GUI. The challenge that I'm seeing is that it will be difficult to integrate it into the main Hangman. I'll send my code to the group 
