@@ -31,3 +31,12 @@ MEMBER:Mthabisi Sibanda
 ISSUE: Game Dictionary
 STATUS: In-Progress -(Passed to Nompilo)
 --Created 5 levels of txt files to draw from, with level one having 4 letter words to level 5 eith 8 and above. Needs to be refined to nouns only instead of including verbs, adjectives, plurals and tenses, makes the game seem unprofessional.
+
+
+
+
+DATE: 21 September 2023 (Thursday)
+MEMBER: Nompilo Khumalo 
+ISSUE: Game Dictionary 
+Status: Finished
+-- Created 5 text files fo five levels of different themes. Namely cars, computer science, fashion brands, animals and fruits. The code for this dictionary is that there are 5 levels for each text file. Each level has 6 rounds and a word is printed randomly for eaxh round.
