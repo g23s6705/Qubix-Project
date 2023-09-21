@@ -39,4 +39,5 @@ DATE: 21 September 2023 (Thursday)
 MEMBER: Nompilo Khumalo 
 ISSUE: Game Dictionary 
 Status: Finished
+I will create a folder for the text documents and the java code for the game dictionary.
 -- Created 5 text files fo five levels of different themes. Namely cars, computer science, fashion brands, animals and fruits. The code for this dictionary is that there are 5 levels for each text file. Each level has 6 rounds and a word is printed randomly for eaxh round.
