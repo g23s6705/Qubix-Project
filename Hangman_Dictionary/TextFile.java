@@ -9,7 +9,7 @@ public class TextFile {
 
         // Iterate through levels 1 to 5
         for (int level = 1; level <= 5; level++) {
-            String fileName = "/storage/615F-18FC/Hangman_Database/";
+            String fileName = "Qubix-Project/Hangman_Dictionary";
 
             // Determine the file based on the current level
             switch (level) {
