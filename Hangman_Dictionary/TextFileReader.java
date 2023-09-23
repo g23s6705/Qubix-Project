@@ -8,7 +8,7 @@ public class TextFileReader {
         // Level 1
         ArrayList<String> word1 = new ArrayList<>();
         try {
-            File file1 = new File("/storage/615F-18FC/Hangman_Database/Animals.txt");
+            File file1 = new File("/Qubix-Project/Hangman_Dictionary/Animals.txt");
             Scanner scan1 = new Scanner(file1);
 
             while (scan1.hasNextLine()) {
@@ -24,7 +24,7 @@ public class TextFileReader {
         // Level 2
         ArrayList<String> word2 = new ArrayList<>();
         try {
-            File file2 = new File("/storage/615F-18FC/Hangman_Database/Cars.txt");
+            File file2 = new File("/Qubix-Project/Hangman_Dictionary/Cars.txt");
             Scanner scan2 = new Scanner(file2);
 
             while (scan2.hasNextLine()) {
@@ -40,7 +40,7 @@ public class TextFileReader {
         // Level 3
         ArrayList<String> word3 = new ArrayList<>();
         try {
-            File file3 = new File("/storage/615F-18FC/Hangman_Database/Computer_Sciences.txt");
+            File file3 = new File("/Qubix-Project/Hangman_Dictionary/Computer_Sciences.txt");
             Scanner scan3 = new Scanner(file3);
 
             while (scan3.hasNextLine()) {
@@ -56,7 +56,7 @@ public class TextFileReader {
         // Level 4
         ArrayList<String> word4 = new ArrayList<>();
         try {
-            File file4 = new File("/storage/615F-18FC/Hangman_Database/Fashion_Brands.txt");
+            File file4 = new File("/Qubix-Project/Hangman_Dictionary/Fashion_Brands.txt");
             Scanner scan4 = new Scanner(file4);
 
             while (scan4.hasNextLine()) {
@@ -72,7 +72,7 @@ public class TextFileReader {
         // Level 5
         ArrayList<String> word5 = new ArrayList<>();
         try {
-            File file5 = new File("/storage/615F-18FC/Hangman_Database/Animals.txt");
+            File file5 = new File("/Qubix-Project/Hangman_Dictionary/Fruits");
             Scanner scan5 = new Scanner(file5);
 
             while (scan5.hasNextLine()) {
