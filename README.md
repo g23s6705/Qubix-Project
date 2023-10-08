@@ -8,7 +8,6 @@ This Hangman game is a text based application developed in JavaScript. It allows
 - Nompilo Khumalo (g22k1186@campus.ru.ac.za)
 - Mthabisi (g23s6705@campus.eu.ac.za)
 - Melusi (g22m14172@campus.ru.ac.za)
-- Thami (g20h4535@campus.ru.ac.za)
 - Cwenga (g21n8627@campus.ru.ac.za)
 
 Mentor
