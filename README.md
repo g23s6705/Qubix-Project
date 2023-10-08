@@ -44,8 +44,7 @@ Mentor
 - Follow the game's prompts and notifications to guess letters and progress through the game.
   
 ### Concepts used:
-- Basic CSS
-- Basic Html
+- Basic XML
 - Android studios
 - Java
 - Monday.com
