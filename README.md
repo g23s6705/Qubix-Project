@@ -20,6 +20,8 @@ Mentor
 4. Install Android Studios. For windows run the .exe file and follow the installation instructions.
 5. After the intallation process is complete you can launch Android Studios from your apllication or Start menu.
 6. Android Studios will prompt you to set up an Android Virtual device if you intent to test you apps om emulated devices. Follow the prompts to create and ADV.
+### Path to the main activity 
+Myapp2\app\src\main\java\com\example\myapp2\MainActivity.java
 
 ### Running the game
 1. Build the project to compile the code.
